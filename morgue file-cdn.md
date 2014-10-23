@@ -21,12 +21,16 @@ Pic | description | extra info
 --- | ----------- | ----------
 [Leaves](http://cdn.morguefile.com/imageData/public/files/m/Melodi2/02/h/13930908693avkc.jpg) | Minimal image of leaves | b&w
 [tree and clouds](http://cdn.morguefile.com/imageData/public/files/h/hotblack/06/h/1370899248u3b6p.jpg) | striking image of a tree in a hill | b&w, dimensions 
+[Clouds](http://cdn.morguefile.com/imageData/public/files/k/KB1/03/h/1364659400urjj9.jpg) | clouds from above | colour 
+
 
 
 ######Abstract 
 Pic | description | extra info
 --- | ----------- | ----------
-[Ink drops in water](http://cdn.morguefile.com/imageData/public/files/b/bhjoco/03/h/1362137243shntu.jpg) | black ink drops in water, warm feel | color
+[Ink drops in water](http://cdn.morguefile.com/imageData/public/files/b/bhjoco/03/h/1362137243shntu.jpg) | black ink drops in water, warm feel | colour
+[Bokeh](http://cdn.morguefile.com/imageData/public/files/k/KB1/03/h/1364659400urjj9.jpg) | simple dark   effect | colour
+[Gold bokeh](http://cdn.morguefile.com/imageData/public/files/p/Prawny/05/h/1400935424w7iun.jpg) | nice gold bokeh | color
 
 
 ######Textures
