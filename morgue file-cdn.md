@@ -9,11 +9,13 @@ Pic | description | extra info
 [wood blocks](http://cdn.morguefile.com/imageData/public/files/f/FabienneBlanc/02/h/139207063280xry.jpg) | children's woodern letter blocks | color, dimensions 
 
 
-######Coffee and cups
+
+######:Coffee and cups:
 Pic | description | extra info
 --- | ----------- | ----------
 [coffe cup 1](http://cdn.morguefile.com/imageData/public/files/c/carygrant/01/h/13582692662cu4z.jpg) | White almost full coffee cup on brown ta Leave | colour
 [coffee](http://cdn.morguefile.com/imageData/public/files/s/SQUAIO/11/h/1385559680s16ev.jpg) | Two empty coffee cups on a cafe table | b&w
+
 
 
 ######Nature
@@ -30,7 +32,8 @@ Pic | description | extra info
 --- | ----------- | ----------
 [Ink drops in water](http://cdn.morguefile.com/imageData/public/files/b/bhjoco/03/h/1362137243shntu.jpg) | black ink drops in water, warm feel | colour
 [Bokeh](http://cdn.morguefile.com/imageData/public/files/k/KB1/03/h/1364659400urjj9.jpg) | simple dark   effect | colour
-[Gold bokeh](http://cdn.morguefile.com/imageData/public/files/p/Prawny/05/h/1400935424w7iun.jpg) | nice gold bokeh | color
+[Gold bokeh](http://cdn.morguefile.com/imageData/public/files/p/Prawny/05/h/1400935424w7iun.jpg) | nice gold bokeh | colour
+[A better bokeh](http://cdn.morguefile.com/imageData/public/files/p/pippalou/07/h/1372891445rr47w.jpg) | a nicer blurred bokeh effect | color
 
 
 ######Textures
@@ -38,3 +41,8 @@ Pic | description | extra info
 --- | ----------- | ----------
 [my fave retro texture](http://cdn.morguefile.com/imageData/public/files/k/KittyBitty/04/h/1365273675z11i3.jpg) | textured paper with blue and red dots |
 Link straight to cdn for you stockies
+
+######Industry
+Pic | description | extra info
+--- | ----------- | ----------
+[Music recording](http://cdn.morguefile.com/imageData/public/files/t/tranquillity/02/h/1361639491arhnp.jpg) | up close shot of recording equipment | colour
