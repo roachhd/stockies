@@ -34,6 +34,7 @@ Pic | description | extra info
 [Bokeh](http://cdn.morguefile.com/imageData/public/files/k/KB1/03/h/1364659400urjj9.jpg) | simple dark   effect | colour
 [Gold bokeh](http://cdn.morguefile.com/imageData/public/files/p/Prawny/05/h/1400935424w7iun.jpg) | nice gold bokeh | colour
 [A better bokeh](http://cdn.morguefile.com/imageData/public/files/p/pippalou/07/h/1372891445rr47w.jpg) | a nicer blurred bokeh effect | color
+[Purple Bokeh](http://cdn.morguefile.com/imageData/public/files/p/pippalou/08/h/1377144599ol4i9.jpg) | a pretty blurry purple bokeh pic | colour 
 
 
 ######Textures
