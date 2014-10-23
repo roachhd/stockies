@@ -1,3 +1,5 @@
+Pic | description | extra info
+--- | ----------- | ----------
 [Bookshelf](http://cdn.morguefile.com/imageData/public/files/s/Seemann/09/h/14111743435qkl6.jpg) | Colorful bookshelf | dimensions 
 [relax](http://cdn.morguefile.com/imageData/public/files/m/MGDboston/09/h/1410205990b3rgj.jpg) | 'Relax' written in sand | dimensions 
 [clouds](http://cdn.morguefile.com/imageData/public/files/g/GaborfromHungary/08/h/1408886282s74rx.jpg) | wide clouds image | color, dimensions
@@ -8,17 +10,27 @@
 
 
 ######Coffee and cups
+Pic | description | extra info
+--- | ----------- | ----------
 [coffe cup 1](http://cdn.morguefile.com/imageData/public/files/c/carygrant/01/h/13582692662cu4z.jpg) | White almost full coffee cup on brown ta Leave | colour
 [coffee](http://cdn.morguefile.com/imageData/public/files/s/SQUAIO/11/h/1385559680s16ev.jpg) | Two empty coffee cups on a cafe table | b&w
 
 
 ######Nature
+Pic | description | extra info
+--- | ----------- | ----------
 [Leaves](http://cdn.morguefile.com/imageData/public/files/m/Melodi2/02/h/13930908693avkc.jpg) | Minimal image of leaves | b&w
 [tree and clouds](http://cdn.morguefile.com/imageData/public/files/h/hotblack/06/h/1370899248u3b6p.jpg) | striking image of a tree in a hill | b&w, dimensions 
 
 
 ######Abstract 
+Pic | description | extra info
+--- | ----------- | ----------
 [Ink drops in water](http://cdn.morguefile.com/imageData/public/files/b/bhjoco/03/h/1362137243shntu.jpg) | black ink drops in water, warm feel | color
 
 
+######Textures
+Pic | description | extra info
+--- | ----------- | ----------
+[my fave retro texture](http://cdn.morguefile.com/imageData/public/files/k/KittyBitty/04/h/1365273675z11i3.jpg) | textured paper with blue and red dots |
 Link straight to cdn for you stockies
