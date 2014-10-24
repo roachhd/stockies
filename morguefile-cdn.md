@@ -43,7 +43,8 @@ Pic | description | extra info
 [my fave retro texture](http://cdn.morguefile.com/imageData/public/files/k/KittyBitty/04/h/1365273675z11i3.jpg) | textured paper with blue and red dots |
 Link straight to cdn for you stockies
 
-######Industry
+######Objects
 Pic | description | extra info
 --- | ----------- | ----------
 [Music recording](http://cdn.morguefile.com/imageData/public/files/t/tranquillity/02/h/1361639491arhnp.jpg) | up close shot of recording equipment | colour
+[Fairy lights](http://cdn.morguefile.com/imageData/public/files/g/greyerbaby/12/h/1355026961m6q8i.jpg) | String on fairy lights bunched in a floor. Gold tones. | Colour
