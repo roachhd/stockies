@@ -32,6 +32,12 @@ Pic | description | extra info
 [alone at sea](http://cdn.morguefile.com/imageData/public/files/j/jemolesky/03/h/1394230327b0kou.jpg) | a muted pic of a single boat at sea with an oliveish beige feel | colour, tinted 
 [Red leaf](http://cdn.morguefile.com/imageData/public/files/w/wunee/02/h/1392956694jaka7.jpg) | minimal red leaf in black ground | color, dimensions
 [clouds](http://cdn.morguefile.com/imageData/public/files/g/GaborfromHungary/08/h/1408886282s74rx.jpg) | wide clouds image | color, dimensions
+[Spider web](http://cdn.morguefile.com/imageData/public/files/p/pippalou/09/h/13796973067duki.jpg) | a bright image of a spider web, full web | colour
+[Water birds](http://cdn.morguefile.com/imageData/public/files/u/utoplec/04/h/1397586361exmwd.jpg) | a nice image of water birds with a yellow tint | colour, yellow tint 
+[real blurred rainbow] (http://cdn.morguefile.com/imageData/public/files/s/shas/04/h/1365026541sqoki.jpg) | blurry photo of a rainbow through a windows with a few raindrops | colour 
+[leaf](http://cdn.morguefile.com/imageData/public/files/s/Sgarton/09/h/1379985251f7eeb.jpg) | another minimal leaf pic, brown palette | colour
+[Leaves](http://cdn.morguefile.com/imageData/public/files/s/Sgarton/09/h/1379985251f7eeb.jpg) | leaves from above on wood | colour 
+[Sand games](http://cdn.morguefile.com/imageData/public/files/m/MGDboston/03/h/1395501535q0rah.jpg) | tic tac toe in the sand, top down shot | colour 
 
 
 
@@ -44,6 +50,7 @@ Pic | description | extra info
 [A better bokeh](http://cdn.morguefile.com/imageData/public/files/p/pippalou/07/h/1372891445rr47w.jpg) | a nicer blurred bokeh effect | color
 [Purple Bokeh](http://cdn.morguefile.com/imageData/public/files/p/pippalou/08/h/1377144599ol4i9.jpg) | a pretty blurry purple bokeh pic | colour 
 [❤️ Rainbow blur](http://cdn.morguefile.com/imageData/public/files/c/cohdra/04/h/136558094833f2z.jpg) | a really nice blurry splash of clouds | colours
+[Water bubbles](http://cdn.morguefile.com/imageData/public/files/p/pippalou/03/h/13951108310c1xj.jpg) | up close pic if bubblig water | colour 
 
 
 
