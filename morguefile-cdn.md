@@ -6,7 +6,7 @@ Pic | description | extra info
 
 
 
-######:Coffee and cups:
+######Coffee & Cups
 Pic | description | extra info
 --- | ----------- | ----------
 [coffe cup 1](http://cdn.morguefile.com/imageData/public/files/c/carygrant/01/h/13582692662cu4z.jpg) | White almost full coffee cup on brown ta Leave | colour
