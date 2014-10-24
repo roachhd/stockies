@@ -19,6 +19,7 @@ Pic | description | extra info
 Pic | description | extra info
 --- | ----------- | ----------
 [Rainy view](http://cdn.morguefile.com/imageData/public/files/w/wouldbetraveller/08/h/1407459202vr93j.jpg) | A rainy view of a city, raindrops on windows | color, dimensions 
+[Colourful cafe](http://cdn.morguefile.com/imageData/public/files/j/JessicaGale/03/h/1396149807o2mca.jpg) | brightly coloured chairs set at an outdoor cafe / eating area
 
 
 
